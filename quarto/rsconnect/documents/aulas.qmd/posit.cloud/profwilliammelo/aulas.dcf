@@ -1,0 +1,16 @@
+name: aulas
+title: aulas
+username:
+account: profwilliammelo
+server: posit.cloud
+hostUrl: https://api.shinyapps.io/v1
+appId: 8953907
+bundleId: 7136037
+url: https://posit.cloud/content/5868273
+when: 1682471783.61947
+lastSyncTime: 1682471783.61948
+quarto_version: 1.2.335
+quarto_engines: knitr
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: aulas.html

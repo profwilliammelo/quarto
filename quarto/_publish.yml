@@ -1,0 +1,7 @@
+- source: aulas.qmd
+  quarto-pub:
+    - id: fb11573a-24f0-49d8-bcc8-8f5616707993
+      url: 'https://quartopub.com/sites/profwilliammelo/analisaracolher---aulas-em-r'
+  netlify:
+    - id: e1c3ab6d-de5a-4578-84d5-b7d2911790ec
+      url: 'https://startling-pika-6f85a8.netlify.app'
